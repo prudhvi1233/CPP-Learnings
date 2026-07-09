@@ -1,0 +1,7 @@
+1. Write a C++ program to read an integer from the user, store its address in a pointer, and display the value using the pointer.
+
+2. Write a C++ program to accept an integer from the user, create a pointer to that integer, and display the variable's value, its address, the pointer's value (stored address), the pointer's own address, and the value obtained by dereferencing the pointer.
+
+3. Write a C++ program to demonstrate how to modify the value of a variable using a pointer. Initialize an integer with a value, create a pointer to it, change the variable's value through the pointer, and display the updated value.
+
+4. 
